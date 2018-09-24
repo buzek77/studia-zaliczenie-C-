@@ -1,0 +1,39 @@
+C:\Documents and Settings\student\Pulpit\lab3\moj\Pages\Pages\bin\Pages.dll
+C:\Documents and Settings\student\Pulpit\lab3\moj\Pages\Pages\bin\Pages.pdb
+C:\Documents and Settings\student\Pulpit\lab3\moj\Pages\Pages\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\student\Pulpit\lab3\moj\Pages\Pages\obj\Debug\Pages.dll
+C:\Documents and Settings\student\Pulpit\lab3\moj\Pages\Pages\obj\Debug\Pages.pdb
+E:\NET\lab3\moj\Pages\Pages\bin\Pages.dll
+E:\NET\lab3\moj\Pages\Pages\bin\Pages.pdb
+E:\NET\lab3\moj\Pages\Pages\obj\Debug\ResolveAssemblyReference.cache
+E:\NET\lab3\moj\Pages\Pages\obj\Debug\Pages.dll
+E:\NET\lab3\moj\Pages\Pages\obj\Debug\Pages.pdb
+C:\Users\buzek\Desktop\PAW\NET\lab3\moj\Pages\Pages\bin\Pages.dll
+C:\Users\buzek\Desktop\PAW\NET\lab3\moj\Pages\Pages\bin\Pages.pdb
+C:\Users\buzek\Desktop\PAW\NET\lab3\moj\Pages\Pages\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\buzek\Desktop\PAW\NET\lab3\moj\Pages\Pages\obj\Debug\Pages.dll
+C:\Users\buzek\Desktop\PAW\NET\lab3\moj\Pages\Pages\obj\Debug\Pages.pdb
+C:\Users\buzek\Desktop\Pages\Pages\bin\Pages.dll
+C:\Users\buzek\Desktop\Pages\Pages\bin\Pages.pdb
+C:\Users\buzek\Desktop\Pages\Pages\obj\Debug\Pages.dll
+C:\Users\buzek\Desktop\Pages\Pages\obj\Debug\Pages.pdb
+C:\Users\buzek\Desktop\Pages\Pages\bin\Pages.dll.config
+C:\Users\buzek\Desktop\Pages\Pages\obj\Debug\Pages.csprojResolveAssemblyReference.cache
+C:\Users\buzek\Desktop\Pages2\Pages\bin\Pages.dll.config
+C:\Users\buzek\Desktop\Pages2\Pages\bin\Pages.dll
+C:\Users\buzek\Desktop\Pages2\Pages\bin\Pages.pdb
+C:\Users\buzek\Desktop\Pages2\Pages\obj\Debug\Pages.csprojResolveAssemblyReference.cache
+C:\Users\buzek\Desktop\Pages2\Pages\obj\Debug\Pages.dll
+C:\Users\buzek\Desktop\Pages2\Pages\obj\Debug\Pages.pdb
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.dll.config
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.dll
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.pdb
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.csprojResolveAssemblyReference.cache
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.dll
+C:\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.pdb
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.dll.config
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.dll
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\bin\Pages.pdb
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.csprojResolveAssemblyReference.cache
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.dll
+H:\kopia zapasowa laptop 06112017\Users\buzek\Desktop\PAW\NET\projekty\Pages2 — kopia (2)\Pages\obj\Debug\Pages.pdb

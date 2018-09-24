@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Miasta>
+  <Miasto Nazwa="Szczecin"
+   Wielkosc="4" 
+   Pogoda="Dobra" />
+  <Miasto Nazwa="Gdynia"
+   Wielkosc="7" 
+   Pogoda="Dobra" />
+  <Miasto Nazwa="Lublin"
+   Wielkosc="5" 
+   Pogoda="Zla" />
+  <Miasto Nazwa="Olsztyn"
+   Wielkosc="3" 
+   Pogoda="Dobra" />
+</Miasta>

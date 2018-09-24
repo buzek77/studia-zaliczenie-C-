@@ -1,0 +1,112 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Pages.Site1" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .style1
+        {
+            width: 100%;
+            background-color: #99FF99;
+        }
+        .style3
+        {
+            height: 256px;
+            width: 982px;
+        }
+        .style5
+        {            text-align: center;
+            background-color: #CCFF99;
+        }
+        </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <table class="style1">
+        <tr>
+            <td 
+                colspan="3" style="text-align: center; background-color: #99FF99">
+                Nagłówek</td>
+        </tr>
+        <tr>
+            <td>
+                <asp:Menu ID="Menu1" runat="server" BackColor="#FFFBD6" 
+                    DynamicHorizontalOffset="2" Font-Names="Verdana" Font-Size="0.8em" 
+                    ForeColor="#990000" StaticSubMenuIndent="10px">
+                    <StaticSelectedStyle BackColor="#FFCC66" />
+                    <StaticMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <DynamicHoverStyle BackColor="#990000" ForeColor="White" />
+                    <DynamicMenuStyle BackColor="#FFFBD6" />
+                    <DynamicSelectedStyle BackColor="#FFCC66" />
+                    <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="2px" />
+                    <StaticHoverStyle BackColor="#990000" ForeColor="White" />
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/WebForm1.aspx" Text="strona główna" 
+                            Value="strona główna"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/WebForm2.aspx" Text="xml" Value="xml">
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/WebForm3.aspx" Text="timer" Value="timer">
+                        </asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/WebForm4.aspx" Text="multiview" Value="multiview">
+                            <asp:MenuItem NavigateUrl="~/WebForm5.aspx" Text="webcontrols" 
+                                Value="webcontrols"></asp:MenuItem>
+                        </asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+            </td>
+            <td class="style3">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+            </td>
+            <td>
+                <asp:LoginView ID="LoginView1" 
+                    runat="server">
+                    <LoggedInTemplate>
+                        Zalogowany jako:
+                        <asp:LoginName ID="LoginName1" 
+                            runat="server" />
+                        &nbsp;<br />
+                        <asp:LoginStatus ID="LoginStatus1" 
+                            runat="server" />
+                    </LoggedInTemplate>
+                    <AnonymousTemplate>
+                        <asp:Login ID="Login1" runat="server" 
+                            BackColor="#E3EAEB" 
+                            BorderColor="#E6E2D8" BorderPadding="4" 
+                            BorderStyle="Solid" BorderWidth="1px" 
+                            Font-Names="Verdana" Font-Size="0.8em" 
+                            ForeColor="#333333" 
+                            TextLayout="TextOnTop">
+                            <TextBoxStyle Font-Size="0.8em" />
+                            <LoginButtonStyle BackColor="White" 
+                                BorderColor="#C5BBAF" 
+                                BorderStyle="Solid" BorderWidth="1px" 
+                                Font-Names="Verdana" Font-Size="0.8em" 
+                                ForeColor="#1C5E55" />
+                            <InstructionTextStyle Font-Italic="True" 
+                                ForeColor="Black" />
+                            <TitleTextStyle BackColor="#1C5E55" 
+                                Font-Bold="True" Font-Size="0.9em" 
+                                ForeColor="White" />
+                        </asp:Login>
+                    </AnonymousTemplate>
+                </asp:LoginView>
+            </td>
+        </tr>
+        <tr>
+            <td BackColor="#CCFFCC" class="style5" 
+                colspan="3">
+                Stopka<br />
+            </td>
+        </tr>
+    </table>
+    </form>
+</body>
+</html>
